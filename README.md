@@ -16,7 +16,6 @@ List of all the courses taken
       - Supervised Machine Learning: Regression and Classification
       - Advanced Learning Algorithms
       - Unsupervised Learning, Recommenders, Reinforcement Learning
-  - What is Data Science?
   - Generative AI with Large Language Models
   - Attention in Transformers: Concepts and Code in PyTorch
   - How Transformer LLMs Work
