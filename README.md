@@ -4,6 +4,7 @@ List of all the courses taken
 - Coursera
   - Introduction to Electronics
   - Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+  - What is Data Science?
  
 - DeepLearning.AI
   - Specializations
@@ -15,6 +16,8 @@ List of all the courses taken
       - Supervised Machine Learning: Regression and Classification
       - Advanced Learning Algorithms
       - Unsupervised Learning, Recommenders, Reinforcement Learning
+  - What is Data Science?
+  - Generative AI with Large Language Models
   - Attention in Transformers: Concepts and Code in PyTorch
   - How Transformer LLMs Work
   - Open Source Models with Hugging Face
