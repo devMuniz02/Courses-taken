@@ -1,10 +1,20 @@
-# Courses-taken
+# Courses taken
 List of all the courses taken
 
 - Coursera
-  - AI for Medical Diagnosis
+  - Introduction to Electronics
+  - Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
  
 - DeepLearning.AI
+  - Specializations
+    - Mathematics for Machine Learning
+      - Mathematics for Machine Learning: Linear Algebra
+      - Mathematics for Machine Learning: Multivariate Calculus
+      - Mathematics for Machine Learning: PCA
+    - Machine Learning
+      - Supervised Machine Learning: Regression and Classification
+      - Advanced Learning Algorithms
+      - Unsupervised Learning, Recommenders, Reinforcement Learning
   - Attention in Transformers: Concepts and Code in PyTorch
   - How Transformer LLMs Work
   - Open Source Models with Hugging Face
@@ -13,8 +23,10 @@ List of all the courses taken
   - Building Generative AI Applications with Gradio
   - Functions, Tools and Agents with LangChain
   - AI Python for Beginners
+  - AI For Everyone
   - How Diffusion Models Work
   - Building Code Agents with Hugging Face smolagents
   - Building and Evaluating Advanced RAG
   - AI Agents in LangGraph
   - Orchestrating Workflows for GenAI Applications
+  - AI for Medical Diagnosis
