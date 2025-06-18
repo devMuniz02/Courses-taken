@@ -32,3 +32,4 @@ List of all the courses taken
   - AI Agents in LangGraph
   - Orchestrating Workflows for GenAI Applications
   - AI for Medical Diagnosis
+  - Generative AI for Everyone
