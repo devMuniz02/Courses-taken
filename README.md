@@ -6,6 +6,10 @@ List of all the courses taken
   - Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
   - What is Data Science?
  
+- Coursera Project Network
+  - Detecting COVID-19 with Chest X-Ray using PyTorch
+
+ 
 - DeepLearning.AI
   - Specializations
     - Mathematics for Machine Learning
