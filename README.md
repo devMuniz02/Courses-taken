@@ -8,6 +8,7 @@ List of all the courses taken
  
 - Coursera Project Network
   - Detecting COVID-19 with Chest X-Ray using PyTorch
+  - GenAI Summarization with Langchain: Summarize Text Documents
 
  
 - DeepLearning.AI
