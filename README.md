@@ -38,3 +38,4 @@ List of all the courses taken
     - Orchestrating Workflows for GenAI Applications
     - AI for Medical Diagnosis
     - Generative AI for Everyone
+    - Finetuning Large Language Models
