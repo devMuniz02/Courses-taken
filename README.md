@@ -20,20 +20,21 @@ List of all the courses taken
       - Supervised Machine Learning: Regression and Classification
       - Advanced Learning Algorithms
       - Unsupervised Learning, Recommenders, Reinforcement Learning
-  - Generative AI with Large Language Models
-  - Attention in Transformers: Concepts and Code in PyTorch
-  - How Transformer LLMs Work
-  - Open Source Models with Hugging Face
-  - LangChain for LLM Application Development
-  - LangChain Chat with Your Data
-  - Building Generative AI Applications with Gradio
-  - Functions, Tools and Agents with LangChain
-  - AI Python for Beginners
-  - AI For Everyone
-  - How Diffusion Models Work
-  - Building Code Agents with Hugging Face smolagents
-  - Building and Evaluating Advanced RAG
-  - AI Agents in LangGraph
-  - Orchestrating Workflows for GenAI Applications
-  - AI for Medical Diagnosis
-  - Generative AI for Everyone
+  - Courses
+    - Generative AI with Large Language Models
+    - Attention in Transformers: Concepts and Code in PyTorch
+    - How Transformer LLMs Work
+    - Open Source Models with Hugging Face
+    - LangChain for LLM Application Development
+    - LangChain Chat with Your Data
+    - Building Generative AI Applications with Gradio
+    - Functions, Tools and Agents with LangChain
+    - AI Python for Beginners
+    - AI For Everyone
+    - How Diffusion Models Work
+    - Building Code Agents with Hugging Face smolagents
+    - Building and Evaluating Advanced RAG
+    - AI Agents in LangGraph
+    - Orchestrating Workflows for GenAI Applications
+    - AI for Medical Diagnosis
+    - Generative AI for Everyone
