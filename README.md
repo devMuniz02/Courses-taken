@@ -36,6 +36,7 @@ List of all the courses taken
     - Building Code Agents with Hugging Face smolagents
     - Building and Evaluating Advanced RAG
     - AI Agents in LangGraph
+    - Quantization Fundamentals with Hugging Face
     - Orchestrating Workflows for GenAI Applications
     - AI for Medical Diagnosis
     - Generative AI for Everyone
