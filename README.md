@@ -41,3 +41,4 @@ List of all the courses taken
     - AI for Medical Diagnosis
     - Generative AI for Everyone
     - Finetuning Large Language Models
+    - Quantization in Depth
