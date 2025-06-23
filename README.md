@@ -42,3 +42,4 @@ List of all the courses taken
     - Generative AI for Everyone
     - Finetuning Large Language Models
     - Quantization in Depth
+    - Introduction to on-device AI
