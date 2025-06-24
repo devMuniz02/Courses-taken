@@ -21,6 +21,8 @@ List of all the courses taken
       - Supervised Machine Learning: Regression and Classification
       - Advanced Learning Algorithms
       - Unsupervised Learning, Recommenders, Reinforcement Learning
+    - Natural Language Processing Specialization
+      - Natural Language Processing with Classification and Vector Spaces
   - Courses
     - Generative AI with Large Language Models
     - Attention in Transformers: Concepts and Code in PyTorch
