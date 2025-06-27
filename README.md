@@ -23,6 +23,7 @@ List of all the courses taken
       - Unsupervised Learning, Recommenders, Reinforcement Learning
     - Natural Language Processing Specialization
       - Natural Language Processing with Classification and Vector Spaces
+      - Natural Language Processing with Probabilistic Models
   - Courses
     - Generative AI with Large Language Models
     - Attention in Transformers: Concepts and Code in PyTorch
