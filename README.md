@@ -25,6 +25,7 @@ List of all the courses taken
       - Natural Language Processing with Classification and Vector Spaces
       - Natural Language Processing with Probabilistic Models
       - Natural Language Processing with Sequence Models
+      - Natural Language Processing with Attention Models
   - Courses
     - Generative AI with Large Language Models
     - Attention in Transformers: Concepts and Code in PyTorch
