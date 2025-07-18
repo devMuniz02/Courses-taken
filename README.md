@@ -26,6 +26,8 @@ List of all the courses taken
       - Natural Language Processing with Probabilistic Models
       - Natural Language Processing with Sequence Models
       - Natural Language Processing with Attention Models
+    - Microsoft AI & ML Engineering Specialization
+      - Foundations of AI and Machine Learning
   - Courses
     - Generative AI with Large Language Models
     - Attention in Transformers: Concepts and Code in PyTorch
